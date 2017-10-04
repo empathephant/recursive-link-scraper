@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# folders that the program creates during testing/use
+all_pages
